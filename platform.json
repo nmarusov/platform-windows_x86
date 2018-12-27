@@ -39,9 +39,9 @@
     }
   ],
   "frameworks": {
-    "framework-qpc": {
+    "qpc": {
       "package": "framework-qpc",
-      "script": "builder/frameworks/framework-qpc.py"
+      "script": "builder/frameworks/qpc.py"
     }
   },
   "packages": {
